@@ -2,6 +2,8 @@
 
 [Join The Discord](https://discord.gg/J9N6evPF8Y)
 
+[GitHub Discussions](https://github.com/orgs/mega-api/discussions)
+
 # Mega Utilities Ecosystem
 We do a lot so here's our other stuff!
 
